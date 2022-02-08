@@ -6,6 +6,8 @@ Born2beroot (42cursus) 2021-2022
 - Result        : 125%
 - Observations  : (NULL).
 
+![Capture](https://user-images.githubusercontent.com/78090806/152994314-1143abbc-3e42-471b-96a5-a5e3bb45609c.PNG)
+
 ## Table of Contents
 1. [Introduction](#introduction)
     - [What is a Virtual Machine?](#Virtual-Machine)
